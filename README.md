@@ -2,7 +2,7 @@
 Scientific Computing Certification Projects by FreeCodeCamp
 
 ### Cipher
-* Create cipher text using fundamentals of Python
+* Create Caesar and Vigenere cipher text using fundamentals of Python. The Caesar cipher shift each letter in the message by a fixed number of positions down the alphabet. The Vigenere cipher use a keyword to apply different Caesar ciphers to different parts of the message.
 
 ### Luhn Algorithm
-* The Luhn algorithm, also known as the modulus 10 or mod 10 algorithm, is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. It doubles every second digit from right to left, adds the digits of the results if they are two digits, subtracts 9 if the result is greater than 9, sums all the digits, and checks if the sum is divisible by 10.
+* Create a function for the Luhn Algorithm. The Luhn algorithm,  is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. It doubles every second digit from right to left, adds the digits of the results if they are two digits, subtracts 9 if the result is greater than 9, sums all the digits, and checks if the sum is divisible by 10.
