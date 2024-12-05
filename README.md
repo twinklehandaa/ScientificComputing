@@ -23,6 +23,6 @@ Scientific Computing Certification Projects by FreeCodeCamp
 * Construct your own BST and perform an in-order traversal using key operations like insertion, search, and deletion. A Binary Search Tree (BST) is an common data structure where data is sorted hierarchically.
 
   
-
+## Certificate:
 ![image](https://github.com/user-attachments/assets/a463364a-edc0-49c8-9c08-b2dfd16de2b0)
 
